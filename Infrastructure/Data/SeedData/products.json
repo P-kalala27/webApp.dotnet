@@ -1,0 +1,296 @@
+[
+    {
+        "Name": "Cargo Pents",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 150,
+        "PictureUrl": "https://static.bershka.net/4/photos2/2023/I/0/2/p/5462/665/711/93dce1b779da4720204251b3f9b1b63e-5462665711_2_4_0.jpg?cropfixwidth=2052&imwidth=750&impolicy=bershka-crop-fix-width-itxmedium&imformat=chrome",
+        "ProductTypeId" : 3,
+        "ProductBrandId" : 2
+    },
+    {
+        "Name": "Cool Dressing",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 110,
+        "PictureUrl": "https://static.bershka.net/4/photos2/2023/I/0/1/p/5846/187/800/ef1a056d254d1eae20869c3793cf6b5e-5846187800_2_3_0.jpg?cropfixwidth=2052&imwidth=750&impolicy=bershka-crop-fix-width-itxmedium&imformat=chrome",
+        "ProductTypeId" : 2,
+        "ProductBrandId" : 2
+    },
+    {
+        "Name": "Jawallery",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 180,
+        "PictureUrl": "https://static.bershka.net/4/photos2/2023/I/0/2/p/9828/423/800/3ea6a38a87a3e93a4630f9c295a17316-9828423800_1_1_0.jpg?cropfixwidth=2052&imwidth=750&impolicy=bershka-crop-fix-width-itxmedium&imformat=chrome",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :2
+    },
+    {
+        "Name": "Bershka Shoe",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 200,
+        "PictureUrl": "https://static.bershka.net/4/photos2/2023/I/1/2/p/2472/260/040/2ec548b390b341da33fcc7bebe42195a-2472260040_2_4_0.jpg?cropfixwidth=2052&imwidth=750&impolicy=bershka-crop-fix-width-itxmedium&imformat=chrome",
+        "ProductTypeId" : 4,
+        "ProductBrandId" :2
+    },
+    {
+        "Name": "Watch",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 100,
+        "PictureUrl": "https://static.bershka.net/4/photos2/2023/I/0/2/p/9748/162/635/4afe248e37cc9f70f8f235a67ffc28d4-9748162635_1_1_0.jpg?cropfixwidth=2052&imwidth=750&impolicy=bershka-crop-fix-width-itxmedium&imformat=chrome",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :2
+    },
+    {
+        "Name": "Short",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 79,
+        "PictureUrl": "https://static.bershka.net/4/photos2/2023/I/0/1/p/5571/173/800/6b757c3e2e9d7387745492e3405e9531-5571173800_1_3_0.jpg?imwidth=750&impolicy=bershka-itxmedium&imformat=chrome",
+        "ProductTypeId" : 2,
+        "ProductBrandId" : 2
+    },
+   
+    {
+        "Name": "Nike-dunk-low",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 250,
+        "PictureUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9b26aa8f-0173-409b-b30a-7ce2d88573a4/custom-nike-dunk-low-by-you.png",
+        "ProductTypeId" : 4,
+        "ProductBrandId" :4
+    },
+    {
+        "Name": "Nike SB Dunk low",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 340,
+        "PictureUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8f940dd5-e1c7-4494-94f7-23836c2b1868/chaussure-de-skateboard-sb-dunk-low-pro.png",
+        "ProductTypeId" : 4,
+        "ProductBrandId" :4
+    },
+    {
+        "Name": "Boston Celtics",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 259,
+        "PictureUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/10738bfa-bf7a-40be-977f-88aa4c47ddc4/survetement-nba-courtside-boston-celtics-starting-5-city-edition-pour-mpTvVL.png",
+        "ProductTypeId" : 2,
+        "ProductBrandId" :4
+    },
+    {
+        "Name": "Sportswear",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 240,
+        "PictureUrl": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.3/h_435,c_limit/cfc5f0b0-5767-4ce1-ab40-251ad27fc9af/sweat-a-capuche-oversize-en-fleece-sportswear-pour-ado-rb4qQm.png",
+        "ProductTypeId" : 2,
+        "ProductBrandId" :4
+    },
+    {
+        "Name": "Jordan 1",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 190,
+        "PictureUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cedd528f-6aa4-49f5-a383-7f5711e03bfd/chaussure-jordan-1-mid-se-pour-HKgBx5.png",
+        "ProductTypeId" : 4,
+        "ProductBrandId" :4
+    },
+    {
+        "Name": "Classic Ston",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 90,
+        "PictureUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2d0601b5-387e-4f15-b1db-bc4f7a5ea898/bracelet-sport-41-mm-desert-classic-stone-m-l-Z3dWCm.png",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :4
+    },
+    
+    {
+        "Name": "Automatic",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 650,
+        "PictureUrl": "https://www.audemarspiguet.com/content/dam/ap/com/homepage/2023/carousel-our-latest-optim/01-carHP-CODE_77410OR-OO-A623CR-01.jpg.transform.apcarouselv.jpg",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :1
+    },
+    {
+        "Name": "Royal Oak",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 700,
+        "PictureUrl": "https://www.audemarspiguet.com/content/dam/ap/com/homepage/2023/carousel-our-latest-optim/02-carHP-1920x2542_26240BA.OO.1320BA.jpg.transform.apcarouselv.jpg",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :1
+    },
+    {
+        "Name": "Offshore Chronographe",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 750,
+        "PictureUrl": "https://www.audemarspiguet.com/content/dam/ap/com/homepage/2023/carousel-our-latest-optim/02-carHP-1920x2542_26240BA.OO.1320BA.jpg.transform.apcarouselv.jpg",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :1
+    },
+    {
+        "Name": "Repetitons Minute",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 690,
+        "PictureUrl": "https://www.audemarspiguet.com/content/dam/ap/com/homepage/2023/carousel-our-latest-optim/02-carHP-1920x2542_26240BA.OO.1320BA.jpg.transform.apcarouselv.jpg",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :1
+    },
+    {
+        "Name": "Concept Tourbillon",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 540,
+        "PictureUrl": "https://www.audemarspiguet.com/content/dam/ap/com/homepage/2023/carousel-our-latest-optim/02-carHP-1920x2542_26240BA.OO.1320BA.jpg.transform.apcarouselv.jpg",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :1
+    },
+    {
+        "Name": "Concept Chronographique",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 850,
+        "PictureUrl": "https://www.audemarspiguet.com/content/dam/ap/com/homepage/2023/carousel-our-latest-optim/02-carHP-1920x2542_26240BA.OO.1320BA.jpg.transform.apcarouselv.jpg",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :1
+    },
+
+    {
+        "Name": "Ophidia",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 220,
+        "PictureUrl": "https://media.gucci.com/style/White_South_0_160_316x316/1586364304/631685_96IWB_8745_002_100_0000_Light-Cabas-OphidiaGG-taille-moyenne.jpg",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :3
+    },
+    {
+        "Name": "Ophidia men",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 300,
+        "PictureUrl": "https://media.gucci.com/style/White_South_0_160_316x316/1683218724/752591_FACFW_8920_002_100_0000_Light-Sac-paule-Ophidia-motifGG-petite-taille.jpg",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :3
+    },
+    {
+        "Name": "Laine Pent",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 120,
+        "PictureUrl": "https://media.gucci.com/style/White_South_0_160_316x316/1695142877/776313_ZHW51_5981_002_100_0000_Light.jpg",
+        "ProductTypeId" : 3,
+        "ProductBrandId" :3
+    },
+    {
+        "Name": "Wool dress",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 180,
+        "PictureUrl": "https://s3.amazonaws.com/images.ancote.com/33W---GUCCI---743316XKC8X3464.JPG",
+        "ProductTypeId" : 2,
+        "ProductBrandId" :3
+    },
+    {
+        "Name": "Guilty Parfum",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 120,
+        "PictureUrl": "data:image/jpeg;base64,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",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :3
+    },
+    {
+        "Name": "Collared contract-trim dress",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 260,
+        "PictureUrl": "https://cdn-images.farfetch-contents.com/19/69/71/52/19697152_43976073_1000.jpg",
+        "ProductTypeId" : 2,
+        "ProductBrandId" :3
+    },
+    
+    {
+        "Name": "Neymar Short",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 50,
+        "PictureUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/658329/03/fnd/EEA/fmt/png/Short-de-football-Neymar-Jr-Creativity-Adolescent",
+        "ProductTypeId" : 3,
+        "ProductBrandId" :5
+    },
+    {
+        "Name": "Dress cotelee",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 75,
+        "PictureUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/538056/01/mod01/fnd/EEA/fmt/png/Robe-c%C3%B4tel%C3%A9e-Classics-Femme",
+        "ProductTypeId" : 2,
+        "ProductBrandId" :5
+    },
+    {
+        "Name": "Liberty",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 90,
+        "PictureUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/079805/01/fnd/EEA/fmt/png/Mini-sac-PUMAxLIBERTY",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :5
+    },
+    {
+        "Name": "Sponge Bob",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 60,
+        "PictureUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/622214/01/mod01/fnd/EEA/fmt/png/Pantalon-de-surv%C3%AAtement-PUMA-x-BOB-L'%C3%89PONGE-Enfant",
+        "ProductTypeId" : 3,
+        "ProductBrandId" :5
+    },
+    {
+        "Name": "Bob ",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 90,
+        "PictureUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/024609/01/fnd/EEA/fmt/png/Bob-PUMA-x-THE-RAGGED-PRIEST-Femme",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :5
+    },
+    {
+        "Name": "Palermo",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 190,
+        "PictureUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/396463/05/sv01/fnd/EEA/fmt/png/Sneakers-Palermo",
+        "ProductTypeId" : 4,
+        "ProductBrandId" :5
+    },
+    
+    
+    {
+        "Name": "Bermida",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 80,
+        "PictureUrl": "https://i.pinimg.com/236x/8a/4f/b3/8a4fb3ea1555f3cb479bdf97c063cebf.jpg",
+        "ProductTypeId" : 3,
+        "ProductBrandId" :6
+    },
+    {
+        "Name": "Wellwits",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 160,
+        "PictureUrl": "https://i.pinimg.com/236x/a6/25/c0/a625c051f1c2b88a6c4744b92369889c.jpg",
+        "ProductTypeId" : 2,
+        "ProductBrandId" :6
+    },
+    {
+        "Name": "Dresstells",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 150,
+        "PictureUrl": "https://i.pinimg.com/736x/fb/2f/9b/fb2f9bc5b002cd973830c1e23ee51eab.jpg",
+        "ProductTypeId" : 2,
+        "ProductBrandId" :6
+    },
+    {
+        "Name": "Bodycon",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 140,
+        "PictureUrl": "https://i.pinimg.com/736x/64/21/32/6421324d2e6206d6c7dae407c95d0e10.jpg",
+        "ProductTypeId" : 2,
+        "ProductBrandId" :6
+    },
+    {
+        "Name": "Lunette",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 45,
+        "PictureUrl": "https://i.pinimg.com/236x/fb/d7/9e/fbd79e8ad6e723d3db58bfd786085054.jpg",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :6
+    },
+    {
+        "Name": "Chloe Drew",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum nobis",
+        "Price" : 75,
+        "PictureUrl": "https://i.pinimg.com/736x/b2/18/c8/b218c8015d358bf7a53800dfdef5248d.jpg",
+        "ProductTypeId" : 1,
+        "ProductBrandId" :6
+    }
+]

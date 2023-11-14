@@ -19,10 +19,7 @@ Infrastructure/obj/project.assets.json
 Infrastructure/obj/Infrastructure.csproj.nuget.g.targets
 Infrastructure/obj/Infrastructure.csproj.nuget.g.props
 Infrastructure/obj/Infrastructure.csproj.nuget.dgspec.json
-Infrastructure/Data/Migrations/StoreContextModelSnapshot.cs
-Infrastructure/Data/Migrations/20231113153023_InitialCreat.Designer.cs
-Infrastructure/Data/Migrations/20231113153023_InitialCreat.cs
-Infrastructure/Data/StoreContext.cs
+
 Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
 Infrastructure/bin/Debug/net7.0/Infrastructure.dll
 Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
