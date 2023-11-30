@@ -1,0 +1,24 @@
+
+img{
+    object-fit: cover;
+    height: 700px;
+    width: 100%;
+}
+
+.lar{
+    overflow-x: hidden;
+}
+
+
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 60vh;
+    margin: auto;
+}
+
+.ov:hover{
+    background-color: rgb(255, 0, 247);
+}
